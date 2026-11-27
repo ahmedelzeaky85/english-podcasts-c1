@@ -1,2 +1,1 @@
-# english-podcasts-c1
-English podcast series, Level C1
+# Everyday English podcast, level C1
